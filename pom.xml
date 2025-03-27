@@ -6,7 +6,7 @@
 
 	<groupId>com.1on1betutils</groupId>
 	<artifactId>utils1on1bet</artifactId>
-	<version>1.0</version>
+	<version>1.2</version>
 	<name>utils1on1bet</name>
 	<description>Util jar for 1on1bet projects</description>
 
